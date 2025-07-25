@@ -65,9 +65,6 @@ I’m always open to connecting with fellow developers, MSSA students, or anyone
 
 | Repository | Description |
 |-----------|-------------|
-| [mssa-gpa-calculator](https://github.com/cad-anaizat/mssa-gpa-calculator) | C# project calculating GPA with extra credit logic |
-| [powerapps-maintenance-app](https://github.com/cad-anaizat/powerapps-maintenance-app) | Maintenance request app for Läderach with Dataverse integration |
-| [n8n-automation-workflows](https://github.com/cad-anaizat/n8n-automation-workflows) | Example workflows for personal and business task automation |
 | [console-practice-exercises](https://github.com/cad-anaizat/console-practice-exercises) | Exercises from MSSA CAD to practice fundamentals |
 | [cad-anaizat](https://github.com/cad-anaizat/cad-anaizat) | This profile repository (you're looking at it!) |
 
