@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anaizat%20Hereim-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaizat)
 
-I’m always open to connecting with fellow developers, MSSA students, or anyone passionate about backend systems, automation, and building smarter tools.
+I’m always open to connecting with fellow developers, MSSA students, or anyone passionate about systems, automation, and building smarter tools.
 
 ---
 
