@@ -64,9 +64,11 @@ I’m always open to connecting with fellow developers, MSSA students, or anyone
 ## 📦 Popular Repositories
 
 | Repository | Description |
-|-----------|-------------|
+|------------|-------------|
 | [mssa-cad-curriculum-practice-exercises](https://github.com/cad-anaizat/CCAD19-Curriculum.git) | Exercises from MSSA CAD to practice fundamentals |
 | [cad-anaizat](https://github.com/cad-anaizat/cad-anaizat) | This profile repository (you're looking at it!) |
+| [pillar](https://github.com/cad-anaizat/pillar.git) | Scalable backend solution project built with .NET 8.0 and C# |
+
 
 ---
 
